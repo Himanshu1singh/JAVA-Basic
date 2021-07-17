@@ -1,0 +1,30 @@
+package operator;
+
+//Arithmatic operator
+
+public class Operator {
+
+	public static void main(String[] args) {
+		
+		int a=10;
+		int b=20;
+		
+		System.out.println(a + b);
+		
+	//Logical operator	
+		
+		 boolean c = true;
+		 boolean d = false;
+		 
+		 System.out.println(c && d);
+		 
+		//Relational operator
+		 
+		
+		 
+		 System.out.println(a <= b);
+	
+
+	}
+}
+
